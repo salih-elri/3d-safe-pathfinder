@@ -28,7 +28,11 @@ grid navigation, and constraint-based movement.
 python src/safe_path_3d.py
 
  ``` 
-
+## Example Output
+This is an example path returned by the algorithm for a simple 3D grid input.
+```
+Path: ['east', 'east', 'east', 'south', 'south', 'south']
+```
 ## Notes
 
 This project is an extended and cleaned-up version of an academic coursework problem,
