@@ -25,7 +25,8 @@ grid navigation, and constraint-based movement.
 
 2. Run the Python Script:
 ```bash
-python safe_path_3d.py
+python src/safe_path_3d.py
+
  ``` 
 
 ## Notes
